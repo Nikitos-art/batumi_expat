@@ -1,0 +1,1259 @@
+1684786770894	geckodriver	INFO	Listening on 127.0.0.1:44477
+1684786771461	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea08kVq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684786771942	Marionette	INFO	Marionette enabled
+1684786771945	Marionette	INFO	Listening on port 43659
+Read port: 43659
+WebDriver BiDi listening on ws://127.0.0.1:35081
+1684786772112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35081/devtools/browser/09f03258-e85f-48d4-b59d-0f0ca36ed771
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gGcE_Je6QN6wd7zdqPO8VfplLXk3j_ez8wfuudjmOnY.js line 2 > eval line 3670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1684786996309	geckodriver	INFO	Listening on 127.0.0.1:54947
+1684786996864	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIrvgE9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684786997110	Marionette	INFO	Marionette enabled
+1684786997112	Marionette	INFO	Listening on port 39491
+Read port: 39491
+WebDriver BiDi listening on ws://127.0.0.1:35273
+1684786997220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35273/devtools/browser/d540c412-a0a4-4cb0-8a78-f85429dca529
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 7208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1684787021116	geckodriver	INFO	Listening on 127.0.0.1:42527
+1684787021662	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "46543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLPSwRu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684787021896	Marionette	INFO	Marionette enabled
+1684787021898	Marionette	INFO	Listening on port 39819
+Read port: 39819
+WebDriver BiDi listening on ws://127.0.0.1:46543
+1684787022007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:46543/devtools/browser/8001edd8-1f9e-44e1-9b04-480be24e9e0b
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 1857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+1684787502307	geckodriver	INFO	Listening on 127.0.0.1:52563
+1684787502855	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQbdBzh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684787503111	Marionette	INFO	Marionette enabled
+1684787503114	Marionette	INFO	Listening on port 35911
+Read port: 35911
+WebDriver BiDi listening on ws://127.0.0.1:57769
+1684787503235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57769/devtools/browser/6415e7a4-2f65-4959-90ec-2653f3368537
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 3482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684787637556	geckodriver	INFO	Listening on 127.0.0.1:55281
+1684787638116	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJVsX7U"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684787638369	Marionette	INFO	Marionette enabled
+1684787638371	Marionette	INFO	Listening on port 43605
+Read port: 43605
+WebDriver BiDi listening on ws://127.0.0.1:42765
+1684787638481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42765/devtools/browser/0657f3fa-fef6-4022-b309-0297d0c0e483
+[GFX1-]: Managed to allocate after flush.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684787847445	geckodriver	INFO	Listening on 127.0.0.1:41469
+1684787847997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1hoILv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684787848255	Marionette	INFO	Marionette enabled
+1684787848258	Marionette	INFO	Listening on port 33007
+Read port: 33007
+WebDriver BiDi listening on ws://127.0.0.1:48251
+1684787848373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48251/devtools/browser/c5da303d-ee5f-4832-952e-4f2ed6aa8322
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 4086 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+1684787964946	geckodriver	INFO	Listening on 127.0.0.1:49121
+1684787965495	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "45577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenECTag"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684787965752	Marionette	INFO	Marionette enabled
+1684787965755	Marionette	INFO	Listening on port 33501
+Read port: 33501
+WebDriver BiDi listening on ws://127.0.0.1:45577
+1684787965847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45577/devtools/browser/520d016e-f873-4282-a92b-5e992822376f
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 7798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 3034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+1684787982893	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 6031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 6071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 1573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 3928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 6169 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 899 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 7339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://360.tbcconnect.ge/hoard.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1684788310329	geckodriver	INFO	Listening on 127.0.0.1:37789
+1684788310899	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesFZ8EI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684788311154	Marionette	INFO	Marionette enabled
+1684788311156	Marionette	INFO	Listening on port 45471
+Read port: 45471
+WebDriver BiDi listening on ws://127.0.0.1:54177
+1684788311262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54177/devtools/browser/4614dde2-e4de-4204-bc14-52446c1f2b86
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 34988, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:34988): GLib-GObject-CRITICAL **: 00:45:57.193: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+[Parent 34988, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:34988): GLib-GObject-CRITICAL **: 00:45:57.194: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+[Parent 34988, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:34988): GLib-GObject-CRITICAL **: 00:45:57.194: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+[Parent 34988, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:34988): GLib-GObject-CRITICAL **: 00:45:57.195: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202209.1.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202209.1.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gGcE_Je6QN6wd7zdqPO8VfplLXk3j_ez8wfuudjmOnY.js line 2 > eval line 4968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gGcE_Je6QN6wd7zdqPO8VfplLXk3j_ez8wfuudjmOnY.js line 2 > eval line 3004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 33462, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29078, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684789099470	Marionette	INFO	Stopped listening on port 33501
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 27273, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 29584, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684789099514	Marionette	INFO	Stopped listening on port 39491
+[Child 32733, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684789099539	Marionette	INFO	Stopped listening on port 39819
+1684789099542	Marionette	INFO	Stopped listening on port 33007
+1684789099567	Marionette	INFO	Stopped listening on port 43659
+[Child 35096, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684789099689	Marionette	INFO	Stopped listening on port 45471
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 6592 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 789 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://www.google.com/js/th/qxlPlUvWRKBhnXZqilD_AH5qJJE8DrvaiNMtLOaaoQM.js line 2 > eval line 2431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
