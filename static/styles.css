@@ -1,11 +1,13 @@
-/*.container {
+/* .container {
   display: grid;
   grid-template-columns: 1fr 2fr;
   grid-template-rows: 1fr 1fr;
   gap: 10px;
-}
-*/
+} */
 
+body img {
+  width: 100%;
+}
 
 .card {
   border: 2px solid #000000; /* Replace with your desired color */

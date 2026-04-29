@@ -1,17 +1,44 @@
-Batumi Cafes Project
+# ☕ Batumi Cafés Project
 
-Description: This is a small project that will be checking data from Google to see if there are any new cafes in town.
+## 📌 Description
+A small project that monitors Google data to discover newly opened cafés in Batumi. The goal is to automate the process of collecting, storing, and presenting local business information.
 
-Tech Details:
+---
 
-Cafes Batumi uses Beautiful Soup, lxml, Selenium and 3rd party libraries to check with Google if there are any new cafes in Batumi. So the first part of the project is a cafes scraper/parser and add the data to my local DB. First I will do an initial scrape for cafes. Then I will implement a checker/automation code to check for new opened cafes. 1.1) MongoDB is used for storage and Docker container for local deployment.
+## ⚙️ Tech Overview
 
-Flask is used for back-end. It will read the data from the cafes DB and will serve that data to the front using the appropriate routing and links. And serve these to front end templates.
+### 🔍 Data Collection
+- Uses **Beautiful Soup**, **lxml**, **Selenium**, and other third-party libraries  
+- Scrapes and parses Google data to collect café information  
+- Performs an initial full scrape, followed by automated checks for newly opened cafés  
+- Stores data in **MongoDB**  
+- Runs locally using **Docker**
 
-Flask servers static files and so far there are the following pages: 1.0) Main page will have: 1.0.a) Some flight info from Batumi. 1.0.b) 1.0.c) 1.0.d) 1.0.e)
+### 🌐 Backend & Web App
+- Built with **Flask**  
+- Retrieves data from the database and serves it via structured routes  
+- Renders content using frontend templates  
+- Serves static files for the UI  
 
-1.1) Cafes
-1.2) Apartments for rent
-1.3) Barber shops
-1.4) Gyms
-1.5) For kids & moms
+---
+
+## 📄 Pages / Features
+
+### 🏠 Main Page
+- Basic Batumi-related information (e.g., flight info)  
+- Additional sections planned  
+
+### 📂 Categories
+- ☕ Cafés  
+- 🏢 Apartments for Rent  
+- 💈 Barber Shops  
+- 🏋️ Gyms  
+- 👩‍👧 For Kids & Moms  
+
+---
+
+## 🧠 Notes
+This project is an ongoing experiment focused on web scraping, automation, and building a simple data-driven web application. The structure is designed to be easily extendable to other categories beyond cafés.
+
+## Docker local launch ###
+docker compose up -d
